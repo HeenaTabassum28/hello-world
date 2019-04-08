@@ -1,2 +1,4 @@
 # hello-world
-learn how tom use git hub
+learn how to use git hub
+
+Heena Tabassum Khan
